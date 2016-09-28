@@ -29,8 +29,9 @@ Updates are managed comfortably with dedicated *package managers*.
 
 - I made very good experience with the [Anaconda
   distribution](https://www.continuum.io/) and I strongly recommend you
-  to install its current *3.5* version. It is available for the operating
-  systems *Windows*, *Linux* and *Mac*.
+  to install its current *3.5* version. It contains all packages we need in
+  class and it is available for the *Windows*, *Linux* and *Mac* operating
+  systems.
 
 - I also recommend you to register with [Anaconda](https://anaconda.org/).
   As a student you profit from free, high performance mathematical libraries.
