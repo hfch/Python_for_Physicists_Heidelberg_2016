@@ -16,7 +16,7 @@ Python consists of a *core language* (see
 [here](https://www.python.org/)) and many optional modules and
 packages. For sceintific computing essential modules are
 [numpy](http://www.numpy.org/) (data structures optimised for science
-applications), [scipy](https://www.scipy.org/) (large collection o
+applications), [scipy](https://www.scipy.org/) (large collection of
 software packages for science applications) and
 [matplotlib](http://matplotlib.org/) (plotting package for scientific
 data).
