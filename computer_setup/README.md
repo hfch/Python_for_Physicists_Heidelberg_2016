@@ -37,7 +37,7 @@ Updates are managed comfortably with dedicated *package managers*.
   As a student you profit from free, high performance mathematical libraries.
   I will discuss the merits of them in class.
   
-  **Important: Register with your student university E-Mail!**
+  **Important: Register with your student university E-Mail adress!**
 
 ## Installation test
 Please run the script ```check_heidelberg_python.py``` on your computer to
