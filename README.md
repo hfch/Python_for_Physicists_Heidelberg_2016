@@ -25,7 +25,7 @@ language.
   contain topics that you should be familiar with in your programming language.
 
 ## Computer / Laptop setup
-Every student will work actively with an own computer. I expect that
+Each student will work actively with an own computer. I expect that
 about half of you will bring their own Laptops and necessary setups
 are described [here](https://github.com/terben/Python_for_Physicists_Heidelberg_2016/tree/master/computer_setup).
 Please make sure that you have a proper *Python*-setup
