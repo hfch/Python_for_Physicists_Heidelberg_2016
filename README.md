@@ -1,7 +1,7 @@
 # Python_for_Physicists_Heidelberg_2016
 
-The goal of my lectures it to teach physik-students on the master and
-PhD level how to efficiently and flexibly solve programming
+The goal of my lectures it to teach physics-students on the master and
+PhD level how to efficiently and flexibly solve scientific programming
 problems with the easy-to-learn, high-level programming language
 Python.
 
